@@ -64,8 +64,8 @@ const thanhvn = {
 
 ![Followers](https://img.shields.io/github/followers/thanhvn-shinkoxd?style=for-the-badge&logo=github&label=Followers&color=00ff88&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/thanhvn-shinkoxd?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=ffd700&labelColor=0d1117)
-![Commits](https://img.shields.io/badge/Total_Commits-29-4fc3f7?style=for-the-badge&logo=git&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Public_Repos-7-bf5af2?style=for-the-badge&logo=github&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthanhvn-shinkoxd&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=bf5af2&labelColor=0d1117&logo=github)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthanhvn-shinkoxd&query=%24.following&label=Following&style=for-the-badge&color=4fc3f7&labelColor=0d1117&logo=github)
 
 </div>
 
