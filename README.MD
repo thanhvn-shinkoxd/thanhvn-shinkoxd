@@ -61,8 +61,12 @@ const thanhvn = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhvn-shinkoxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvn-shinkoxd&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff"/>
+
+![Followers](https://img.shields.io/github/followers/thanhvn-shinkoxd?style=for-the-badge&logo=github&label=Followers&color=00ff88&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/thanhvn-shinkoxd?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=ffd700&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/Total_Commits-29-4fc3f7?style=for-the-badge&logo=git&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Public_Repos-7-bf5af2?style=for-the-badge&logo=github&labelColor=0d1117)
+
 </div>
 
 <div align="center">
@@ -71,19 +75,11 @@ const thanhvn = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanhvn-shinkoxd&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
 ## 📌 Featured Project
 
 <div align="center">
 
-[![Kryptex API](https://github-readme-stats.vercel.app/api/pin/?username=thanhvn-shinkoxd&repo=Kryptex-API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)](https://github.com/thanhvn-shinkoxd/Kryptex-API)
+[![Kryptex API](https://gh-card.dev/repos/thanhvn-shinkoxd/Kryptex-API.svg?fullname=&theme=dark)](https://github.com/thanhvn-shinkoxd/Kryptex-API)
 
 </div>
 
@@ -92,7 +88,7 @@ const thanhvn = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhvn-shinkoxd&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/00ff88/thanhvn-shinkoxd" alt="Contribution chart" />
 </div>
 
 ---
